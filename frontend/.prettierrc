@@ -1,0 +1,22 @@
+{
+  "semi": true,
+  "singleQuote": true,
+  "bracketSpacing": true,
+  "printWidth": 125,
+  "tabWidth": 2,
+  "arrowParens": "avoid",
+  "endOfLine": "lf",
+  "trailingComma": "all",
+  "importOrder": [
+    "<THIRD_PARTY_MODULES>",
+    "^@/shared/(.*)$",
+    "^@/components/(.*)$",
+    "^@/UI/(.*)$",
+    "^@/assets/(.*)$",
+    "^.+\\.(template\\.html|module\\.scss)$",
+    "^../(.*)",
+    "^./(.*)"
+  ],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true
+}

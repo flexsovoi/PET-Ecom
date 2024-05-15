@@ -1,0 +1,17 @@
+build
+coverage
+django_backend
+node_modules
+docker
+.idea
+**/*.html
+**/.git
+**/.svn
+**/.hg
+**/node_modules
+**/django_backend
+**/.idea
+**/docker
+*.html
+*.css
+*.json
